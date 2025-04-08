@@ -22,6 +22,7 @@ void ShowArray(const int* const arr, const int size)
 
 int main()
 {
+    int array = {};
     FillArray();
     ShowArray();
     return 0;
